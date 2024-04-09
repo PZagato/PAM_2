@@ -1,0 +1,5 @@
+    document.getElementById(): Retorna o elemento com o ID especificado.
+    document.getElementsByTagName(): Retorna uma lista de todos os elementos com o nome da tag especificada.
+    document.getElementsByClassName(): Retorna uma lista de todos os elementos com a classe especificada.
+    document.querySelector(): Retorna o primeiro elemento que corresponde a um seletor CSS especificado.
+    document.querySelectorAll(): Retorna todos os elementos que correspondem a um seletor CSS especificado, como uma NodeList.
